@@ -83,7 +83,3 @@ The script will output the following results:
 2. The model's Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE).
 3. A plot showing the training and validation loss over epochs.
 4. Saved best model and plots as PNG files.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
